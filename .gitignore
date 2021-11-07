@@ -1,0 +1,10 @@
+*
+!.gitignore
+!*.ino
+!*.cpp
+!*.h
+!*.md
+!*.jpg
+!*.png
+!*.gif
+!*/
